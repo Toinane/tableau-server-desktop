@@ -79,6 +79,7 @@ const startApp = async () => {
     minimizable: false,
     maximizable: false,
     alwaysOnTop: true,
+    closable: false,
     titleBarStyle: 'hidden',
     hasShadow: false,
     transparent: true
@@ -136,6 +137,11 @@ const reloadApp = () => {
 }
 
 app.on('ready', () => startApp())
+
+app.on('activate', () => {
+  if(!BrowserWindow.getAllWindows().length) startApp()
+})
+
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {
