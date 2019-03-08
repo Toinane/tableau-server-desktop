@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <g>
+    <path id="center" d="M 133.469 122.017 L 133.469 89 L 122.531 89 L 122.531 122.017 L 93 122.017 L 93 133 L 122.531 133 L 122.531 165.281 L 133.469 165.281 L 133.469 133 L 163 133 L 163 122.017 L 133.469 122.017 Z" fill="rgb(233,118,45)">
+      <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="0 127 127" to="360 127 127" dur="5s" repeatCount="indefinite" />
+    </path>
+    <path id="bottom_right" d="M 189 174.462 L 189 146 L 178.156 146 L 178.156 174.462 L 152 174.462 L 152 184 L 178.156 184 L 178.156 212 L 189 212 L 189 184 L 215 184 L 215 174.462 L 189 174.462 Z" fill="rgb(28,68,126)">
+      <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="360 182 182" to="0 182 182" dur="3s" repeatCount="indefinite" />
+    </path>
+    <path id="right" d="M 218 123.684 L 218 104 L 208.996 104 L 208.996 123.684 L 191 123.684 L 191 131 L 208.996 131 L 208.996 151 L 218 151 L 218 131 L 236 131 L 236 123.684 L 218 123.684 Z" fill="rgb(90,101,145)">
+      <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="0 210 128" to="360 210 128" dur="2s" repeatCount="indefinite" />
+    </path>
+    <path id="bottom_left" d="M 77.179 173.987 L 77.179 146 L 67.245 146 L 67.245 173.987 L 40.424 173.987 L 40.424 183.294 L 67.245 183.294 L 67.245 212 L 77.179 212 L 77.179 183.294 L 104 183.294 L 104 173.987 L 77.179 173.987 Z" fill="rgb(201,32,53)">
+      <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="360 72 180" to="0 72 180" dur="3s" repeatCount="indefinite" />
+    </path>>
+    <path id="bottom" d="M 132 206 L 132 186 L 124 186 L 124 206 L 106 206 L 106 215 L 124 215 L 124 235 L 132 235 L 132 215 L 151 215 L 151 206 L 132 206 Z" fill="rgb(90,101,145)">
+      <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="0 127 210" to="360 127 210" dur="2s" repeatCount="indefinite" />
+    </path>
+    <path id="top_left" d="M 77 71 L 77 42 L 67 42 L 67 71 L 40 71 L 40 80 L 67 80 L 67 109 L 77 109 L 77 80 L 104 80 L 104 71 L 77 71 Z" fill="rgb(236,145,45)">
+      <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="360 72 72" to="0 72 72" dur="3s" repeatCount="indefinite" />
+    </path>
+    <path id="left" d="M 43.779 124.185 L 43.779 105.141 L 37.352 105.141 L 37.352 124.185 L 20 124.185 L 20 130.096 L 37.352 130.096 L 37.352 150 L 43.779 150 L 43.779 130.096 L 62 130.096 L 62 124.185 L 43.779 124.185 Z" fill="rgb(112,153,166)">
+      <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="0 45 125" to="360 45 125" dur="2s" repeatCount="indefinite" />
+    </path>
+    <path id="top_right" d="M 189 71.126 L 189 42.936 L 179 42.936 L 179 71.126 L 152 71.126 L 152 79.874 L 179 79.874 L 179 108.064 L 189 108.064 L 189 79.874 L 216 79.874 L 216 71.126 L 189 71.126 Z" fill="rgb(89,135,155)">
+      <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="360 180 72" to="0 180 72" dur="3s" repeatCount="indefinite" />
+    </path>
+    <path id="top" d="M 131.359 40.91 L 131.359 21 L 124.641 21 L 124.641 40.91 L 106.5 40.91 L 106.5 47.09 L 124.641 47.09 L 124.641 67 L 131.359 67 L 131.359 47.09 L 149.5 47.09 L 149.5 40.91 L 131.359 40.91 Z" fill="rgb(112,153,166)">
+      <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="0 127 41" to="360 127 41" dur="2s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>

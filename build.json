@@ -1,0 +1,16 @@
+{
+  "appId": "com.electron.tableau",
+  "productName": "Tableau Server Desktop",
+  "copyright": "Copyright @Toinane",
+  "compression": "normal",
+  "asar": "false",
+  "directories": {
+    "buildResources": "assets"
+  },
+  "mac": {
+    "category": "public.app-category.business",
+    "darkModeSupport": "true",
+    "target": "dmg",
+    "type": "distribution"
+  }
+}
