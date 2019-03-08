@@ -1,9 +1,9 @@
 {
-  "name": "tableau-app",
+  "name": "tableau-server-desktop",
   "version": "1.0.1",
-  "description": "Unofficial Tableau desktop app",
+  "description": "Unofficial Tableau Server desktop app",
   "main": "src/main.js",
-  "repository": "git@github.com:Toinane/tableau-app.git",
+  "repository": "git@github.com:Toinane/tableau-server-desktop.git",
   "author": "Toinane <toinane@crea-that.fr>",
   "license": "MIT",
   "scripts": {
