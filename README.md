@@ -1,5 +1,5 @@
-# Tableau Server Desktop App
-> This application embed the website Tableau Server in a desktop app.
+# Tableau Server Desktop
+> This unofficial application embed the website Tableau Server in a desktop app.
 
 # How to use
 To correctly use this application you will need an URL to your Tableau Server like `https://my-tableau-url.com`.
